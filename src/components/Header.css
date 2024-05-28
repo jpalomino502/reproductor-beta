@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    height: 80px;
+    margin-right: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
